@@ -1,0 +1,356 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Georgios Giatsidis",
+    "label": "Software Engineer",
+    "image": "",
+    "email": "georgiosgiatsidis@hotmail.gr",
+    "phone": "",
+    "url": "",
+    "summary": "I’ve amassed over four years’ experience in software engineering. I hold a BSc in Computer Engineering from the University of Thessaly and an MSc in Computer Science and Technology from the University of Macedonia.",
+    "location": {
+      "countryCode": "US",
+      "address": "Greece"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "georgegiatsidis",
+        "url": "https://www.linkedin.com/in/georgegiatsidis/"
+      },
+      {
+        "network": "Twitter",
+        "username": "georgegiatsidis",
+        "url": "https://twitter.com/georgegiatsidis"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "BetAdvanced",
+      "position": "Javascript Engineer",
+      "startDate": "2018-11-30",
+      "endDate": "",
+      "highlights": [],
+      "summary": "- Develop new user-facing features, optimize existing ones\n- Implement highly responsive and reusable user interface components for our platform using React.js\n- Developed a UI component-based system that is used across our platform\n- Participated in the design of a custom page builder that creates unique page layouts\n- Worked in the rewrite of the live betting platform that consumes real-time data through web sockets\n-  Involved in the Redesign/Refactoring of the accounting system (user preferences, responsible gaming, reality check, self-restriction, self-exclusion, two-factor authentication, document identification etc)\n- Design, engineer, maintain REST API endpoints\n- Created internal JavaScript libraries using build tools such as npm, babel, rollup and webpack\n- Participate in design and code reviews\n- Collaborate with other team members to prioritize tasks, understand requirements and propose solutions\n- Participate in the recruitment process\n- Contribute to the tech decisions",
+      "url": "https://www.linkedin.com/company/28152644",
+      "location": "Thessaloniki, Greece",
+      "type": "(Full-Time)"
+    },
+    {
+      "name": "Kidsproject",
+      "position": "Lead Software Engineer",
+      "startDate": "2021-06-30",
+      "endDate": "",
+      "highlights": [],
+      "summary": "- Rewrote the kidsproject.gr platform aiming at better scalability, reliability, availability, and security. \n- Designed, developed, and maintained the new back-end of the kidsproject.gr platform\n- Selected the tech stack (Typescript, Node.js, MySQL, Redis, React, CSS in JS, Webpack, AWS)\n- Designed, developed, and maintained the front-end view of the Administrator Panel of the platform\n- Migrated existing product from bare metal server to AWS (Elastic Beanstalk, EC2, RDS, ElasticCache, S3, Cloudfront)\n- Migrated from MSSQL to MYSQL including old data\n- Automated deployments on AWS\n- CI/CD of the front-end and the back-end using Github Actions\n- API monitoring and error logging integrations (New Relic, Papertrail)\n- Development of a Node.js framework that generates flexible REST endpoints (CRUD operations, nested filtering, sorting, pagination, etc) and controllers from ORM models\n- Added support for role-based JWT authentication, authorization, validation, and more\n- Created and maintained live and development environments\n- Payments Integrations\n- EveryPay Marketplace integration (Sellers Management, Split payments)\n- Server-Side Rendering, SEO Optimizations",
+      "url": "https://www.linkedin.com/company/82180375",
+      "location": null
+    },
+    {
+      "name": "Hellenic Army ",
+      "position": "Soldier, Research and IT Department (Mandatory Military Service)",
+      "startDate": "2021-09-30",
+      "endDate": "2022-05-31",
+      "highlights": [],
+      "summary": "- Web/mobile application development\n- Installation and configuration of computer hardware and software\n- Repair and maintenance of military's base computing equipment\n- Maintenance of internal websites\n- Network maintenance/troubleshooting from physical to application layers",
+      "url": "https://www.linkedin.com/company/11308257",
+      "location": null
+    },
+    {
+      "name": "GT Sports Leagues",
+      "position": "Full Stack Engineer",
+      "startDate": "2020-05-31",
+      "endDate": "2021-09-30",
+      "highlights": [],
+      "summary": "- Participated in the tech stack selection process (NodeJs, PostgreSQL, Redis, React, CSS in JS, Webpack)\n- Designed, developed, and maintained the front-end view of the GT Leagues e-sports platform\n- CI/CD of the front end using Github Actions\n- Automated deployments on Heroku/AWS\n- Contributed to the REST API of the platform\n- Developed import functionality from CSV to relational database tables\n- Implemented a reusable CRUD frontend framework that conforms to REST principles/JWT\n- Participated in code reviews/reviewed colleague's code",
+      "url": "https://www.linkedin.com/company/71676122",
+      "location": null
+    },
+    {
+      "name": "SOFTWeb Adaptive I.T. Solutions®",
+      "position": "Full Stack Engineer",
+      "startDate": "2017-04-30",
+      "endDate": "2018-10-31",
+      "highlights": [],
+      "summary": "- Designed and implemented an automotive reservation system using web technologies\n- Implemented NodeJS REST APIs for web and mobile applications\n- Built modern UIs with React.js\n- Designed and developed websites for various customers using Joomla/WordPress CMS\n- Converted mockups in HTML, CSS and JavaScript\n- Database Management/Migrations\n- System Administration of the hosting servers",
+      "url": "https://www.linkedin.com/company/357358",
+      "location": "Thessaloniki, Greece",
+      "type": "(Full-Time)"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Macedonia",
+      "area": "Computer Systems and Network Technologies",
+      "studyType": "MSc in Applied Informatics",
+      "startDate": "2018-12-31",
+      "endDate": "2021-12-31",
+      "score": "",
+      "courses": [
+        "MINF168 - Data Structures and Algorithms",
+        "MINF207 - Cryptography",
+        "MINF189 - Parallel and Distributed Computing",
+        "MINF111 - Advanced Software Engineering",
+        "MINF177 - Topics in Database Technology",
+        "MINF172 - Serious Games Programming",
+        "MINF179 - Information Security in the Internet Age"
+      ],
+      "location": "Thessaloniki, Greece",
+      "thesis": "Twitter Data Collection and Analysis Application Development"
+    },
+    {
+      "institution": "University of Thessaly",
+      "area": "School of Techonological Applications",
+      "studyType": "BSc Computer Engineering",
+      "startDate": "2012-12-31",
+      "endDate": "2017-12-31",
+      "score": "",
+      "thesis": "Matching and Identification of Image Content Web Application Development",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "ECCE",
+      "issuer": "Hellenic American Union",
+      "startDate": "2009-12-31"
+    },
+    {
+      "name": "ECDL",
+      "issuer": "ECDL / ICDL Certification",
+      "startDate": "2009-12-31"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Object-Oriented Programming (OOP)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scalability",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Front-end Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Full-Stack Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Continuous Integration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Laravel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scala",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Django",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Applications",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cascading Style Sheets (CSS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Model-View-Controller (MVC)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Back-End Web Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "API Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MongoDB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Unit Testing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JSON",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML5",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Architecture",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Database Systems",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "REST APIs",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Representational State Transfer (REST)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Functional Programming",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Professional Working",
+      "language": "English"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Greek"
+    },
+    {
+      "fluency": "Elementary",
+      "language": "Spanish"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "(MSc Thesis) Twitter data collection and analysis application development",
+      "startDate": "2020-10-31",
+      "summary": null,
+      "url": null,
+      "endDate": "2021-06-30"
+    },
+    {
+      "name": "(BSc Thesis) Development of a web application for matching and identification of image content",
+      "startDate": "2017-04-30",
+      "summary": null,
+      "url": null,
+      "endDate": "2017-10-31"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
