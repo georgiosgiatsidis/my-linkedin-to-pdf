@@ -32,7 +32,7 @@
       "startDate": "2018-11-30",
       "endDate": "",
       "highlights": [],
-      "summary": "- Develop new user-facing features, optimize existing ones\n- Implement highly responsive and reusable user interface components for our platform using React.js\n- Developed a UI component-based system that is used across our platform\n- Participated in the design of a custom page builder that creates unique page layouts\n- Worked in the rewrite of the live betting platform that consumes real-time data through web sockets\n-  Involved in the Redesign/Refactoring of the accounting system (user preferences, responsible gaming, reality check, self-restriction, self-exclusion, two-factor authentication, document identification etc)\n- Design, engineer, maintain REST API endpoints\n- Created internal JavaScript libraries using build tools such as npm, babel, rollup and webpack\n- Participate in design and code reviews\n- Collaborate with other team members to prioritize tasks, understand requirements and propose solutions\n- Participate in the recruitment process\n- Contribute to the tech decisions",
+      "summary": "- Develop new user-facing features, optimize existing ones\n- Implement highly responsive and reusable user interface components for our platform using React.js\n- Developed a UI component-based system that is used across our platform\n- Participated in the design of a custom page builder that creates unique page layouts\n- Worked in the rewrite of the live betting platform that consumes real-time data through web sockets\n- Involvement in the Redesign/Refactoring of the accounting system (user preferences, responsible gaming, reality check, self-restriction, self-exclusion, two-factor authentication, document identification etc)\n- Design, engineer, maintain REST API endpoints\n- Created internal JavaScript libraries using build tools such as npm, babel, rollup and webpack\n- Participate in design and code reviews\n- Collaborate with other team members to prioritize tasks, understand requirements and propose solutions\n- Participate in the recruitment process\n- Contribute to the tech decisions",
       "url": "https://www.linkedin.com/company/28152644",
       "location": "Thessaloniki, Greece",
       "type": "(Full-Time)"
@@ -43,9 +43,9 @@
       "startDate": "2021-06-30",
       "endDate": "",
       "highlights": [],
-      "summary": "- Rewrote the kidsproject.gr platform aiming at better scalability, reliability, availability, and security. \n- Designed, developed, and maintained the new back-end of the kidsproject.gr platform\n- Selected the tech stack (Typescript, Node.js, MySQL, Redis, React, CSS in JS, Webpack, AWS)\n- Designed, developed, and maintained the front-end view of the Administrator Panel of the platform\n- Migrated existing product from bare metal server to AWS (Elastic Beanstalk, EC2, RDS, ElasticCache, S3, Cloudfront)\n- Migrated from MSSQL to MYSQL including old data\n- Automated deployments on AWS\n- CI/CD of the front-end and the back-end using Github Actions\n- API monitoring and error logging integrations (New Relic, Papertrail)\n- Development of a Node.js framework that generates flexible REST endpoints (CRUD operations, nested filtering, sorting, pagination, etc) and controllers from ORM models\n- Added support for role-based JWT authentication, authorization, validation, and more\n- Created and maintained live and development environments\n- Payments Integrations\n- EveryPay Marketplace integration (Sellers Management, Split payments)\n- Server-Side Rendering, SEO Optimizations",
+      "summary": "- Rewrote the kidsproject.gr platform aiming at better scalability, reliability, availability, and security \n- Designed, developed, and maintained the new back-end of the kidsproject.gr platform\n- Selected the tech stack (Typescript, Node.js, MySQL, Redis, React, CSS in JS, Webpack, AWS)\n- Designed, developed, and maintained the front-end view of the Administrator Panel of the platform\n- Migrated existing product from a bare metal server to AWS (Elastic Beanstalk, EC2, RDS, ElasticCache, S3, Cloudfront)\n- Migrated from MSSQL to MYSQL including old data\n- Automated deployments on AWS\n- CI/CD of the front-end and the back-end using Github Actions\n- API monitoring and error logging integrations (New Relic, Papertrail)\n- Development of a Node.js framework that generates flexible REST endpoints (CRUD operations, nested filtering, sorting, pagination, etc) and controllers from ORM models\n- Added support for role-based JWT authentication, authorization, validation, and more\n- Created and maintained live and development environments\n- Payments Integrations\n- EveryPay Marketplace integration (Sellers Management, Split payments)\n- Server-Side Rendering, SEO Optimizations",
       "url": "https://www.linkedin.com/company/82180375",
-      "location": null
+      "location": "Remote"
     },
     {
       "name": "Hellenic Army ",
@@ -93,6 +93,7 @@
         "MINF207 - Cryptography",
         "MINF189 - Parallel and Distributed Computing",
         "MINF111 - Advanced Software Engineering",
+        "MINF187 - Web and Mobile Application Development",
         "MINF177 - Topics in Database Technology",
         "MINF172 - Serious Games Programming",
         "MINF179 - Information Security in the Internet Age"
@@ -107,8 +108,9 @@
       "startDate": "2012-12-31",
       "endDate": "2017-12-31",
       "score": "",
-      "thesis": "Matching and Identification of Image Content Web Application Development",
-      "courses": []
+      "courses": [],
+      "location": "Lamia, Greece",
+      "thesis": "Matching and Identification of Image Content Web Application Development"
     }
   ],
   "awards": [],

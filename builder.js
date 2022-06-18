@@ -13,13 +13,13 @@ const buildResumeFromJson = () => {
   \\href{https://github.com/georgiosgiatsidis}{Github: ~~github.com/georgiosgiatsidis} \\\\
 \\end{tabular*}
 
-\\section{Working Experience}
+\\section{~~Working Experience}
 ${Resume.work
   .map((x) => {
     return `
    \\resumeSubHeadingListStart
    \\resumeSubheading{\\href{${x.url}}{${x.name}}}{${
-      x.location ? `\\faMapMarker~${x.location}` : "Remote"
+      x.location ? `\\faMapMarker~${x.location}` : ""
     }}
    {${x.position} ${x.type || ""}}{${moment(x.startDate).format(
       "MMMM YYYY"
@@ -56,7 +56,7 @@ ${Resume.work
         }
         ${
           x.thesis
-            ? `{\\scriptsize \\textit{ \\footnotesize{\\newline{}\\textbf{Thesis:} ${x.thesis}}}}`
+            ? `{\\scriptsize \\textit{ \\footnotesize{\\newline{}\\textbf{Thesis Title:} ${x.thesis}}}}`
             : ""
         }
         \\resumeSubHeadingListEnd
@@ -66,15 +66,23 @@ ${Resume.work
       .join("\n")}
 
   \\vspace{-5pt}
-  \\section{Skills Summary}
+  \\section{~~Skills Summary}
     \\resumeSubHeadingListStart
-    \\resumeSubItem{Languages}{English - Professional working proficiency, Greek - Native, Spanish - Basic}
     \\resumeSubItem{Frontend}{JavaScript, Typescript, React.js, HTML, CSS, SASS, Mobx, Jest}
     \\resumeSubItem{Backend}{Node.js, Python, PHP, Java, MySQL, MongoDB, Docker, Nginx, Laravel, Redis}
-    \\resumeSubItem{Soft Skills}{Teamwork, Knowledge Sharing, Planning, Problem-solving, Active Listening, Flexibility, Ownership, Openness to criticism}
+    \\resumeSubItem{Industry Knowledge}{Model-View-Controller (MVC), Functional Programming, Object-Oriented Programming (OOP), Continuous Integration (CI), Version Control, Test-driven development (TDD)}
+    \\resumeSubItem{Soft Skills}{Teamwork, Self Motivated, Knowledge Sharing, Planning, Problem-solving, Active Listening, Flexibility, Ownership, Openness to criticism}
 
   \\resumeSubHeadingListEnd
   \\vspace{-5pt}
+
+  \\section{~~Languages}
+  \\resumeSubHeadingListStart
+  \\resumeSubItem{English}{Professional working proficiency}
+  \\resumeSubItem{Greek}{Native proficiency}
+  \\resumeSubItem{Spanish}{Elementary proficiency}
+  \\resumeSubHeadingListEnd
+
 \\end{document}`;
 };
 
